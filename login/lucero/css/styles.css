@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(#FFFFFF, rgba(106, 181, 231, 0.903));}
+
+.elemento {
+    display: inline-block;
+    margin: 10px; /* Ajusta el espacio entre los elementos */
+}
+
+.transparent-div {
+    background-color: rgba(255, 255, 255, 0.5); /* Color de fondo con opacidad */
+    padding: 20px; /* Espacio interno para el contenido */
+}
+#mi-table
+.divForm{
+    background-color: linear-gradient(#FFFFFF, rgba(88, 130, 219, 0.903));}
+
+#promoypreve{
+    background-image: url('/assets/img/9d07b35f-65d9-4e84-8ce6-ca5afc8ca7a8.png'); /* Reemplaza 'ruta_de_la_imagen.jpg' con la ruta de tu imagen */
+    background-size: 600px; /* Ajusta la imagen al tamaño del viewport */
+    background-image: cover;
+    background-position: 50%;   
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color:  rgba(106, 181, 231, 0.903); /* Añade un color de fondo con un grado de transparencia (aquí, el color es negro con 50% de opacidad) */
+
+}
+
+#eps-usuario,
+#eps-usuario-cita{
+    background-color: rgb(106, 39, 169);
+}
+
+#promo-preve{
+    background-color: rgb(238, 202, 22);
+}
+
+#inicio{
+    background-image: url('/assets/img/Beach.png'); /* Reemplaza 'ruta_de_la_imagen.jpg' con la ruta de tu imagen */
+    background-size: 700px; /* Ajusta la imagen al tamaño del viewport */
+    background-image: cover;
+    background-position: 48% 15%;   
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color:  rgba(106, 181, 231, 0.903); /* Añade un color de fondo con un grado de transparencia (aquí, el color es negro con 50% de opacidad) */
+
+}
